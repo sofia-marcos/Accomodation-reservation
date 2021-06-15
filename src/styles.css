@@ -80,7 +80,7 @@ p {
 .header {
   background-image: url("./components/header-background.png");
   background-position: center top;
-  background-size: cover;
+  background-size: contain;
   background-color: rgba(0, 0, 0, 0.7); /* not working */
   padding: 20px 60px;
 }
